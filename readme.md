@@ -40,3 +40,5 @@ To get a local version of this repo up and running, follow the below steps:
 6. Change  file .env to connect to mysql
 7. Config v-host in apache for source code and update host file
 8. Run `php artisan serve` and open url http://127.0.0.1:8000
+
+**See demo on this link : https://www.loom.com/share/ee8770a1545a4d299569871d1252e6f9**
