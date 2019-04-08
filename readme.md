@@ -39,3 +39,4 @@ To get a local version of this repo up and running, follow the below steps:
 5. Run `php artisan db:seed` to generate admin account
 6. Change  file .env to connect to mysql
 7. Config v-host in apache for source code and update host file
+8. Run `php artisan serve` and open url http://127.0.0.1:8000
